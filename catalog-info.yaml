@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: core-api-28491
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/core-api-28491
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
